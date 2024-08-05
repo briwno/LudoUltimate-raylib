@@ -39,7 +39,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Autor
 
-- **Seu Nome** - [Seu GitHub](https://github.com/seu-usuario)
+- **Bruno Alves** - [Seu GitHub](https://github.com/briwno)
 
 ## Agradecimentos
 
