@@ -28,5 +28,21 @@ Este é um projeto de um jogo de Ludo desenvolvido em C utilizando a biblioteca 
 
 3. Execute o arquivo `ludoultimate.exe`.
 
-## Estrutura do Projeto
+
+## Contribuindo
+
+Sinta-se à vontade para fazer um fork do projeto, abrir issues e enviar pull requests. Toda contribuição é bem-vinda!
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Autor
+
+- **Seu Nome** - [Seu GitHub](https://github.com/seu-usuario)
+
+## Agradecimentos
+
+- [Raylib](https://www.raylib.com/) - Biblioteca usada para o desenvolvimento gráfico do jogo.
+
 
