@@ -11,18 +11,22 @@ Este é um projeto de um jogo de Ludo desenvolvido em C utilizando a biblioteca 
 - Movimento de peças
 - Regras do jogo Ludo implementadas
 - Interface gráfica com Raylib
-- Suporte para 4 jogadores
+- Suporte para até 4 jogadores
 
 ## Como Executar
 
 ### Pré-requisitos
 
-- [Raylib](https://www.raylib.com/) (versão 3.7 ou superior)
-- Compilador C (GCC, por exemplo)
+- Sistema operacional compatível (Windows)
 
-### Instruções de Compilação e Execução
+### Instruções para Executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/ludo-raylib.git
-   cd ludo-raylib
+1. Baixe o executável:
+   - [Download do Executável](link-para-download-do-executavel)
+
+2. Extraia o arquivo (se estiver em um arquivo zip).
+
+3. Execute o arquivo `ludo.exe`.
+
+## Estrutura do Projeto
+
