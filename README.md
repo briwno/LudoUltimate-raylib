@@ -26,7 +26,7 @@ Este é um projeto de um jogo de Ludo desenvolvido em C utilizando a biblioteca 
 
 2. Extraia o arquivo (se estiver em um arquivo zip).
 
-3. Execute o arquivo `ludo.exe`.
+3. Execute o arquivo `ludoultimate.exe`.
 
 ## Estrutura do Projeto
 
