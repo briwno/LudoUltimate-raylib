@@ -1,0 +1,7 @@
+vermelho primeira casa = 3
+
+verde primeira casa = 37
+
+amarelo primeira casa = 34
+
+azul primeira casa = 72
