@@ -11,7 +11,7 @@ Este é um projeto de um jogo de Ludo desenvolvido em C utilizando a biblioteca 
 - Movimento de peças
 - Regras do jogo Ludo implementadas
 - Interface gráfica com Raylib
-- Suporte para até 4 jogadores
+- Suporte para 4 jogadores
 
 ## Como Executar
 
