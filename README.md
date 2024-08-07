@@ -5,6 +5,8 @@ Este é um projeto de um jogo de Ludo desenvolvido em C utilizando a biblioteca 
 ## Capturas de Tela
 
 ![Tela do Jogo](https://github.com/user-attachments/assets/de1be6c4-dcc1-47b9-b8ee-58a9b2c80796)
+![Tela Do Tabuleiro](https://github.com/user-attachments/assets/29eff362-bdf1-4f8a-87b9-a9146f4f3e5c)
+
 
 ## Funcionalidades
 
