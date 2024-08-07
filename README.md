@@ -40,6 +40,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## Autor
 
 - **Bruno Alves** - [GitHub](https://github.com/briwno)
+- **Nicolas Keyno** [GitHub](https://github.com/nicolaskeyno)
 
 ## Agradecimentos
 
